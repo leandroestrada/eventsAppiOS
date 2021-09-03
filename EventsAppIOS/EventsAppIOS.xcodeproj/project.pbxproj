@@ -11,6 +11,17 @@
 		BC2630DC26DDAE0900077EBD /* Participant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630DB26DDAE0900077EBD /* Participant.swift */; };
 		BC2630E026DDAE4F00077EBD /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630DF26DDAE4F00077EBD /* Ticket.swift */; };
 		BC2630E326DDAE9000077EBD /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630E226DDAE9000077EBD /* Event.swift */; };
+		BC2630E726DDB2EC00077EBD /* UISearchController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630E626DDB2EC00077EBD /* UISearchController+Extensions.swift */; };
+		BC2630EB26DDB30000077EBD /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630EA26DDB30000077EBD /* String+Extensions.swift */; };
+		BC2630EF26DDB31B00077EBD /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630EE26DDB31B00077EBD /* UIView+Extensions.swift */; };
+		BC2630F226DDB33700077EBD /* Double+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630F126DDB33700077EBD /* Double+Extensions.swift */; };
+		BC2630F526DDB34700077EBD /* UIImage+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630F426DDB34700077EBD /* UIImage+Extensions.swift */; };
+		BC2630F826DDB36000077EBD /* UIImageView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630F726DDB36000077EBD /* UIImageView+Extensions.swift */; };
+		BC2630FB26DDB37200077EBD /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2630FA26DDB37200077EBD /* Date+Extensions.swift */; };
+		BC5155F226E256A000F4E39B /* Geocoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5155F126E256A000F4E39B /* Geocoding.swift */; };
+		BC5155F526E256C600F4E39B /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5155F426E256C600F4E39B /* Validator.swift */; };
+		BC5155F826E256D700F4E39B /* PriceFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5155F726E256D700F4E39B /* PriceFormatter.swift */; };
+		BC5155FB26E2573300F4E39B /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5155FA26E2573300F4E39B /* API.swift */; };
 		BCB9392A26DC3FC900FC5D72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCB9392926DC3FC900FC5D72 /* AppDelegate.swift */; };
 		BCB9392C26DC3FC900FC5D72 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCB9392B26DC3FC900FC5D72 /* SceneDelegate.swift */; };
 		BCB9392E26DC3FC900FC5D72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCB9392D26DC3FC900FC5D72 /* ViewController.swift */; };
@@ -25,6 +36,17 @@
 		BC2630DB26DDAE0900077EBD /* Participant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Participant.swift; sourceTree = "<group>"; };
 		BC2630DF26DDAE4F00077EBD /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
 		BC2630E226DDAE9000077EBD /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		BC2630E626DDB2EC00077EBD /* UISearchController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UISearchController+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630EA26DDB30000077EBD /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630EE26DDB31B00077EBD /* UIView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630F126DDB33700077EBD /* Double+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630F426DDB34700077EBD /* UIImage+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630F726DDB36000077EBD /* UIImageView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extensions.swift"; sourceTree = "<group>"; };
+		BC2630FA26DDB37200077EBD /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		BC5155F126E256A000F4E39B /* Geocoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Geocoding.swift; sourceTree = "<group>"; };
+		BC5155F426E256C600F4E39B /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
+		BC5155F726E256D700F4E39B /* PriceFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceFormatter.swift; sourceTree = "<group>"; };
+		BC5155FA26E2573300F4E39B /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		BCB9392626DC3FC900FC5D72 /* EventsAppIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EventsAppIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCB9392926DC3FC900FC5D72 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCB9392B26DC3FC900FC5D72 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,13 +100,55 @@
 		BC2630DA26DDAD8D00077EBD /* Networking */ = {
 			isa = PBXGroup;
 			children = (
+				BC2630FF26DDB59500077EBD /* Endpoint */,
+				BC2630FE26DDB57B00077EBD /* Moya */,
+				BC2630FD26DDB55300077EBD /* Coders */,
+				BC5155FA26E2573300F4E39B /* API.swift */,
 			);
 			path = Networking;
+			sourceTree = "<group>";
+		};
+		BC2630E526DDB26600077EBD /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				BC2630FA26DDB37200077EBD /* Date+Extensions.swift */,
+				BC2630EA26DDB30000077EBD /* String+Extensions.swift */,
+				BC2630E626DDB2EC00077EBD /* UISearchController+Extensions.swift */,
+				BC2630EE26DDB31B00077EBD /* UIView+Extensions.swift */,
+				BC2630F126DDB33700077EBD /* Double+Extensions.swift */,
+				BC2630F426DDB34700077EBD /* UIImage+Extensions.swift */,
+				BC2630F726DDB36000077EBD /* UIImageView+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		BC2630FD26DDB55300077EBD /* Coders */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Coders;
+			sourceTree = "<group>";
+		};
+		BC2630FE26DDB57B00077EBD /* Moya */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Moya;
+			sourceTree = "<group>";
+		};
+		BC2630FF26DDB59500077EBD /* Endpoint */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Endpoint;
 			sourceTree = "<group>";
 		};
 		BC5B18C226DC4EE2001696DE /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				BC5155F126E256A000F4E39B /* Geocoding.swift */,
+				BC5155F426E256C600F4E39B /* Validator.swift */,
+				BC5155F726E256D700F4E39B /* PriceFormatter.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -111,6 +175,7 @@
 		BCB9392826DC3FC900FC5D72 /* EventsAppIOS */ = {
 			isa = PBXGroup;
 			children = (
+				BC2630E526DDB26600077EBD /* Extensions */,
 				BC2630DA26DDAD8D00077EBD /* Networking */,
 				BC2630D926DDAD7E00077EBD /* Models */,
 				BCB9392926DC3FC900FC5D72 /* AppDelegate.swift */,
@@ -238,11 +303,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC2630E726DDB2EC00077EBD /* UISearchController+Extensions.swift in Sources */,
 				BCB9392E26DC3FC900FC5D72 /* ViewController.swift in Sources */,
 				BCB9392A26DC3FC900FC5D72 /* AppDelegate.swift in Sources */,
+				BC2630FB26DDB37200077EBD /* Date+Extensions.swift in Sources */,
+				BC2630EF26DDB31B00077EBD /* UIView+Extensions.swift in Sources */,
+				BC5155F226E256A000F4E39B /* Geocoding.swift in Sources */,
+				BC5155F826E256D700F4E39B /* PriceFormatter.swift in Sources */,
+				BC2630F526DDB34700077EBD /* UIImage+Extensions.swift in Sources */,
+				BC5155F526E256C600F4E39B /* Validator.swift in Sources */,
+				BC2630F226DDB33700077EBD /* Double+Extensions.swift in Sources */,
+				BC2630F826DDB36000077EBD /* UIImageView+Extensions.swift in Sources */,
 				BC2630E026DDAE4F00077EBD /* Ticket.swift in Sources */,
+				BC2630EB26DDB30000077EBD /* String+Extensions.swift in Sources */,
 				BCB9392C26DC3FC900FC5D72 /* SceneDelegate.swift in Sources */,
 				BC2630E326DDAE9000077EBD /* Event.swift in Sources */,
+				BC5155FB26E2573300F4E39B /* API.swift in Sources */,
 				BC2630DC26DDAE0900077EBD /* Participant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
