@@ -170,6 +170,21 @@
 			path = Endpoint;
 			sourceTree = "<group>";
 		};
+		BC51561826E2CD9E00F4E39B /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				BC51561926E2CDBB00F4E39B /* CheckIn */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		BC51561926E2CDBB00F4E39B /* CheckIn */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CheckIn;
+			sourceTree = "<group>";
+		};
 		BC5B18C226DC4EE2001696DE /* Utils */ = {
 			isa = PBXGroup;
 			children = (
@@ -202,6 +217,7 @@
 		BCB9392826DC3FC900FC5D72 /* EventsAppIOS */ = {
 			isa = PBXGroup;
 			children = (
+				BC51561826E2CD9E00F4E39B /* Screens */,
 				BC2630E526DDB26600077EBD /* Extensions */,
 				BC2630DA26DDAD8D00077EBD /* Networking */,
 				BC2630D926DDAD7E00077EBD /* Models */,
