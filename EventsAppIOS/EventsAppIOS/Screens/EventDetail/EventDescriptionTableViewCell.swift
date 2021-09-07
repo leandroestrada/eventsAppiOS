@@ -2,7 +2,7 @@
 //  EventDescriptionTableViewCell.swift
 //  EventsAppIOS
 //
-//  Created by leandromac on 07/09/21.
+//  Created by leandromac on 05/09/21.
 //
 
 import UIKit
