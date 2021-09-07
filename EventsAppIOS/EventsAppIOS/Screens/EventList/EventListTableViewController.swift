@@ -5,7 +5,7 @@
 //  Created by leandromac on 04/09/21.
 //
 
-import Foundation
+import UIKit
 
 class EventListTableViewController: UITableViewController {
     
