@@ -4,7 +4,7 @@
 ## Features
 
 - Arquitetura MVVM;
-- Pods utilizados: Lootie, Moya e Kingfisher;
+- Pods utilizados: Lotie, Moya e Kingfisher;
 - Listando eventos;
 - Check-in;
 - Busca por eventos
